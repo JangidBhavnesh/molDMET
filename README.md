@@ -1,8 +1,9 @@
 # molDMET
 One shot Density Matrix Embedding Theory
+
 # DEPENDENCIES:
-pyscf, can be found at https://github.com/pyscf/pyscf.git
-mrh, can be found at https://github.com/MatthewRHermes/mrh.git
+1. pyscf, can be found at https://github.com/pyscf/pyscf.git
+2. mrh, can be found at https://github.com/MatthewRHermes/mrh.git
 
 # INSTALLATION:
 Just add this line to your bashrc "export PYTHONPATH=/path/to/molDMET:$PYTHONPATH"
